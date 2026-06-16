@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="library-sp24">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../library-sp24" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../library-sp24" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/junit-jupiter-api-5.9.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/junit-jupiter-api-5.9.1-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../library-sp24" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../library-sp24" recursive="false" type="SOURCES" />
+  </library>
+</component>
